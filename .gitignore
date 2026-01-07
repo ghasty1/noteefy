@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+env/
+venv/
+.env
+
+# Build and Distribution
+build/
+dist/
+*.spec
+
+# Notely Specific
+output/
+*.wav
+*.mp3
+pending.json
+
+# IDEs
+.vscode/
+.idea/

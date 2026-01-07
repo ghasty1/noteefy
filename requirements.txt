@@ -1,0 +1,14 @@
+customtkinter
+packaging
+sounddevice
+soundfile
+numpy
+noisereduce
+requests
+groq
+markdown
+xhtml2pdf
+python-dotenv
+lameenc
+pyinstaller
+gradio_client
